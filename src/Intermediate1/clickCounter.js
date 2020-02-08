@@ -4,7 +4,7 @@ class clickCounter extends Component{
     render(){
         return(
             <button>
-                click xx times
+                click xyz times
             </button>
         )
     }
